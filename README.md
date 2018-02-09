@@ -1,4 +1,11 @@
 # CityNameSearch
+
+Brief description :
+
+Production ready application to search the names of city on the basis of a string and expected result count.
+
+
+
  Spring Boot Application
 
 Step 1. Download the git code as zip
